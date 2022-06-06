@@ -1,2 +1,2 @@
 # Zuma-like-game
-Zuma-like game using C++ and SFML (Multi Linked List)
+Zuma-like game using C++  (Multi Linked List)
